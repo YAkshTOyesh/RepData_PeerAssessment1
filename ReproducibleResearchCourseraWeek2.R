@@ -109,7 +109,3 @@ png(file = "CourseProject2ReproducibleResearch.png")
 xyplot(Average_number_of_steps_per_day ~ Interval | week, data = average_5minute_interval_factored_melted, layout =c(1,2), type = "l")
 dev.off()
 
-#Create link to GitHub repository
-#Link to R
-#Create R markdown and Push to repo
-#Submit
